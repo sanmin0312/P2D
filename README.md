@@ -15,10 +15,11 @@ To be updated
 
 # Citation
 ```
-@article{kim2023predict,
+@inproceedings{kim2023predict,
   title={Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images},
   author={Kim, Sanmin and Kim, Youngseok and Lee, In-Jae and Kum, Dongsuk},
-  journal={arXiv preprint arXiv:2306.08528},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={18057--18066},
   year={2023}
 }
 ```
