@@ -11,13 +11,15 @@ Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images
 
 
 # Model Zoo
-To be updated
-
+|Model | Backbone | Weight| mAP | NDS|
+| - | - | - | -| -|
+| P2D| ResNet50 |[link](https://drive.google.com/file/d/1Cj6Dwvs6hS6iUKhZEpPfScs8t7Eh4_9G/view?usp=sharing) | 36.0 | 47.4 |
+| P2D| ConvNext-B | [link](https://drive.google.com/file/d/1r_dCbGEQX4HmABag8EuET6J1hnUMIONX/view?usp=sharing) | 46.0 | 55.1 |
 # Citation
 ```
 @inproceedings{kim2023predict,
   title={Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images},
-  author={Kim, Sanmin and Kim, Youngseok and Lee, In-Jae and Kum, Dongsuk},
+  author={Sanmin Kim, Youngseok Kim, In-Jae Lee, and Dongsuk Kum},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   pages={18057--18066},
   year={2023}
