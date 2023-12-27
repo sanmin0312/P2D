@@ -1,6 +1,6 @@
 # P2D
 
-Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images, ICCV 2023 ([Arxiv](https://arxiv.org/abs/2306.08528))
+Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images, ICCV 2023 ([Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Predict_to_Detect_Prediction-guided_3D_Object_Detection_using_Sequential_Images_ICCV_2023_paper.pdf), [Supplementary](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Predict_to_Detect_ICCV_2023_supplemental.pdf))
 
 <img src="figs/architecture.png" width="1000">
 
