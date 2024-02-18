@@ -7,7 +7,7 @@ ln -s [nuscenes root] ./data/
 
 The directory should be as follows.
 ```
-BEVDepth
+P2D
 ├── data
 │   ├── nuScenes
 │   │   ├── maps
