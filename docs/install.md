@@ -12,7 +12,7 @@ pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f ht
 
 **3. Clone P2D**
 ```
-https://github.com/sanmin0312/P2D.git
+git clone https://github.com/sanmin0312/P2D.git
 ```
 
 **4. Install mmcv, mmdet and mmseg**
