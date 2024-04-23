@@ -33,6 +33,7 @@ pip install -e .
 
 **6. Install requirements**
 ```
+cd ..
 pip install -r requirements.txt
 python setup.py develop
 ```
