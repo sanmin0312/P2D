@@ -4,7 +4,7 @@
 ```
 python [EXP_PATH] --amp_backend native -b 4 --gpus 4
 
-#python .p2d/exps/nuscenes/p2d/p2d_deform_lss_r50_256x704_128x128_24e_3key.py --amp_backend native - b 4 --gpus 4
+#python .p2d/exps/nuscenes/p2d/p2d_deform_lss_r50_256x704_128x128_24e_3key.py --amp_backend native -b 4 --gpus 4
 ```
 
 **Evaluation**
